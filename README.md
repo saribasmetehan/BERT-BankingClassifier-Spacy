@@ -70,6 +70,7 @@ Fast API kullanarak bir arayüz ile birleştirilerek local olarak proje yayına 
 5. **Tek bir yeni verinin ürün içerisinde gerçekleştiği tüm adımlar ve sonuçta LLM'in yöneticiye sunduğu tavsiye**: `Roadmap_for_just_a_example.ipynb`
 6. **Birden fazla verinin ürün içerisinde gerçekleştiği tüm adımlar ve sonuçta LLM'in yöneticiye sunduğu tavsiye**: `Roadmap_for_examples.ipynb`
 7. **Fast API yardımı ile local yayına alınması**: `Fast_API.ipynb`
+8. **Görsellerin bulundupu sunum dosyası**: 'bank_administrative_assistant_compressed.pdf'
 
 ---
 
