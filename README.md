@@ -8,8 +8,8 @@ Bu depo, banka yöneticilerinin müşteri geri bildirimlerini analiz etmesine, �
 
 Proje şu odak noktalarına sahiptir:  
 1. **Müşteri şikayetlerinin sınıflandırılması** için gelişmiş NLP modellerinin kullanımı.  
-2. **Gruplanmış verilerin özetlenmesi** ile özlü bilgiler sunulması.  
-3. **Yöneticiler için çözüm senaryoları oluşturulması.**
+2. **Gruplanmış verilerin özetlenmesi** ile özlü bilgiler sunulması.
+3. **Mini instruct llm ile Yöneticiler için çözüm senaryoları oluşturulması.**
 
 ---
 
