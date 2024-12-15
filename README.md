@@ -1,6 +1,6 @@
 # Uçtan Uca Banka Yönetici Asistanı  
 
-![Bu depo, banka yöneticilerinin müşteri geri bildirimlerini analiz etmesine, önemli bilgileri özetlemesine ve uygulanabilir çözüm senaryoları üretmesine yardımcı olmak için geliştirilmiş bir uçtan uca projeyi içerir.](bank_administrative_assistant/images)
+![Bu depo, banka yöneticilerinin müşteri geri bildirimlerini analiz etmesine, önemli bilgileri özetlemesine ve uygulanabilir çözüm senaryoları üretmesine yardımcı olmak için geliştirilmiş bir uçtan uca projeyi içerir.](images/download.png)
 ---
 
 ## Proje Özeti  
